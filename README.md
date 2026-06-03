@@ -1,16 +1,23 @@
-# projectswork
+# 🚀 GitHub Training Project
 
-A new Flutter project.
+## 📋 وصف المشروع
+تطبيق Flutter بسيط يعرض بطاقة تعريفية شخصية (Personal Portfolio) تم تطويره
+كجزء من تدريب على استخدام Git و GitHub. يحتوي التطبيق على واجهة رئيسية
+بـ AppBar، قسم للمعلومات الشخصية، وقائمة Cards للمهارات.
 
-## Getting Started
+## 🛠️ التقنيات المستخدمة
+- **Flutter** 3.x
+- **Dart**
+- **Material Design 3**
+- **Git & GitHub** لإدارة الإصدارات
 
-This project is a starting point for a Flutter application.
+## 🌿 Git Workflow
+- **main**: الفرع الرئيسي المستقر
+- **feature/design-update**: فرع لإضافة تحسينات التصميم (تم دمجه)
 
-A few resources to get you started if this is your first Flutter project:
+## 👤 معلومات الطالب
+- **الاسم:** عبيدة
+- **الجامعة:** الكلية الجامعية للعلوم التطبيقية (UCAS)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 License
+هذا المشروع لأغراض تعليمية.
