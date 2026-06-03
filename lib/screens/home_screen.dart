@@ -60,7 +60,7 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 8),
             ...myInfo.skills.map(
                   (s) => InfoCard(icon: Icons.check_circle, title: 'Skill', value: s),),
-            const SizedBox(height: 24),
+            const SizedBox(height: 20),
           ],
         ),
       ),
