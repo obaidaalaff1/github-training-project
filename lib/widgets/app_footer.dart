@@ -13,8 +13,8 @@ class AppFooter extends StatelessWidget {
       child: const Column(
         children: [
           Text(
-            '© 2026 Obaida — All Rights Reserved',
-            style: TextStyle(color: Colors.white70, fontSize: 12),
+            'عبيدة العف',
+            style: TextStyle(color: Colors.black, fontSize: 12),
             textAlign: TextAlign.center,
           ),
 
